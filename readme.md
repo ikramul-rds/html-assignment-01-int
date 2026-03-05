@@ -2,7 +2,7 @@
 
 - Assignment - 01
 
-- Name: Ikramul haque
+- Name: Ikramul Haque
 
 - Email: ikramulsohel101@gmail.com
 
