@@ -1,11 +1,9 @@
-# DOM Assignment
+# HTML Assignment
 
-- Assignment - 04
+- Assignment - 01
 
 - Name: Ikramul haque
 
 - Email: ikramulsohel101@gmail.com
 
-- Link to Assignment: https://github.com/prathapreddy/Assignments/blob/main/dom-assignment/assignment.md
-
-- Live Link: https://prathapreddy.github.io/Assignments/dom-assignment/assignment.html
+- Live Link:
